@@ -40,10 +40,8 @@ Os dados de ambos são enviados via **MQTT** para o **IoT Agent FIWARE**, armaze
 
 Fluxo simplificado do projeto:
 
-> **Wokwi (ESP32 + sensores)** → **MQTT** → **IoT Agent FIWARE** → **Orion Context Broker** → **STH-Comet (histórico)** → **Python / Dashboard / Postman**
+<img src="arquitetura.png">
 
-
-/img/arquitetura.png
 
 # 🏠 1. Sensor de Ambiente (Env001)
 ## 1.1 Objetivo
