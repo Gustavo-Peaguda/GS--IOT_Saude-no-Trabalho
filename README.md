@@ -140,6 +140,7 @@ Ao final, o comando fig.show() exibirá uma figura interativa com 3 gráficos.
 E referenciar no README:
 
 ## 📊 Exemplo de Dashboard de Ambiente
+<img src="graficoAmbiente.png">
 
 # ⌚ 2. Sensor de Movimento – Pulseira Inteligente (Bracelet001)
 ## 2.1 Objetivo
