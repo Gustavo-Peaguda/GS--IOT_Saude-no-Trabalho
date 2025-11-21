@@ -31,6 +31,9 @@ Os dados de ambos são enviados via **MQTT** para o **IoT Agent FIWARE**, armaze
   👉 O **gráfico da pulseira inteligente** é executado **dentro deste projeto**, não neste repositório.  
   <a href="https://github.com/EnzoRamos0108/GS-ProFuture">Clique aqui</a>
 
+- Video no Youtube do projeto
+  <a href="https://www.youtube.com/watch?v=-JVx-59RoN0">Clique aqui</a>
+
 - 📬 **Collection Postman (provisionamento FIWARE)**  
   Arquivo `Postman.json` enviado junto ao projeto (importar no Postman).
 
