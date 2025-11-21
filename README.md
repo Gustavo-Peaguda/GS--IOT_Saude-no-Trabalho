@@ -136,9 +136,6 @@ Criação de 3 gráficos interativos com o Plotly:
 
 Ao final, o comando fig.show() exibirá uma figura interativa com 3 gráficos.
 
-
-E referenciar no README:
-
 ## 📊 Exemplo de Dashboard de Ambiente
 <img src="graficoAmbiente.png">
 
@@ -159,6 +156,7 @@ Isso é essencial para:
 
 - Integrar métricas de bem-estar na plataforma corporativa (ex.: ProFuture)
 
+
 A pulseira pode enviar, por exemplo:
 
 - accelMag – magnitude da aceleração (força do movimento)
@@ -177,7 +175,7 @@ No código da pulseira (ESP32):
 
 -O dispositivo lê dados de aceleração/movimento
 
--Publica via MQTT os atributos como:
+Publica via MQTT os atributos como:
 
 -accelMag
 
@@ -185,7 +183,7 @@ No código da pulseira (ESP32):
 
 -state
 
--Respeitando o device_id (ex.: brace001) e apikey configurados no IoT Agent.
+Respeitando o device_id (ex.: brace001) e apikey configurados no IoT Agent.
 
 ## 2.3 Provisionamento via Postman (Bracelet001)
 
