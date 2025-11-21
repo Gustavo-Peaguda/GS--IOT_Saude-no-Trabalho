@@ -140,6 +140,8 @@ Ao final, o comando fig.show() exibirá uma figura interativa com 3 gráficos.
 <img src="graficoAmbiente.png">
 
 # ⌚ 2. Sensor de Movimento – Pulseira Inteligente (Bracelet001)
+<img src="pulseira.webp">
+
 ## 2.1 Objetivo
 
 A pulseira inteligente monitora a movimentação do usuário para verificar se ele está:
