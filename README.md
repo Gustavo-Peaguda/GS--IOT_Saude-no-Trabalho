@@ -236,4 +236,12 @@ Este repositório foca no fluxo FIWARE + monitoramento de ambiente + documentaç
 
 O repositório ProFuture é o responsável por mostrar a parte visual/gráfico da pulseira no contexto da plataforma de vagas e desenvolvimento profissional.
 
+# 👨‍💻 Integrantes do Grupo
+
+| Nome | RM |
+| :----------- | :------- |
+| Enzo Fernandes Ramos    | 563705    | 
+| Felipe Henrique de Souza Cerazi        | 562746 | 
+| Gustavo Peaguda de Castro     | 562923 | 
+
 
