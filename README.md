@@ -220,6 +220,8 @@ Para visualizar e executar o gráfico da pulseira:
 Acesse o repositório ProFuture:
 👉 <a href="https://github.com/EnzoRamos0108/GS-ProFuture">GS-ProFuture</a>
 
+## 📊 Exemplo de Dashboard da Pulseira
+<img src="graficoPulseira.png">
 Siga as instruções desse projeto (frontend + backend) para:
 
 - Consumir os dados enviados pela pulseira
